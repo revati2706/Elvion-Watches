@@ -1,16 +1,67 @@
-# React + Vite
+# Elvion — Luxury Watch Brand Demo Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Elvion is a modern luxury watch brand demo website designed to showcase premium UI/UX, elegant product presentation, and smooth interactive animations. Built for portfolio and frontend learning purposes.
 
-Currently, two official plugins are available:
+## ✨ Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Elvion represents timeless craftsmanship and refined minimal aesthetics through a clean visual layout and immersive browsing experience. This project explores modern frontend development principles such as responsive design, horizontal scrolling, GSAP animations, and component-based architecture.
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React.js** – Component-based structure and smooth rendering
+* **Tailwind CSS** – Utility-first styling for rapid development
+* **GSAP** – Smooth interactive scroll and hover animations
+* **JavaScript ES6+** – Logic and functionality
 
-## Expanding the ESLint configuration
+## 🎯 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Premium hero section with brand storytelling
+* Smooth hover animations & scroll interactions
+* Horizontal scrolling collection showcase
+* Responsive layout for all screen sizes
+* Minimal UI inspired by luxury branding
+* Optimized high-quality imagery
+
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/revati2706/Elvion-Watches.git
+cd elvion
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+(Include screenshots or demo link here)
+
+## 🧠 Learning Goals
+
+* Master frontend UI/UX development
+* Practice modern animation techniques
+* Improve responsive and minimal design layouts
+
+## 📌 Status
+
+This is an ongoing development project with upcoming enhancements:
+
+* Product page with details
+* Add to cart system
+* CMS integration for watch collections
+* Cursor interactions
+
+## 🤝 Contributing
+
+Feel free to fork this project and experiment with features.
+
+## 📄 License
+
+This project is for educational and portfolio purposes only. Do not use for commercial replication.
+
+---
+
+### Made with passion and precision 🕰️
+
