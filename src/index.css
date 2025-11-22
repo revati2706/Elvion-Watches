@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body,html{
+  background-color: #faefe2;
+  color: #786351;
+}
+
+@font-face {
+  font-family: "pfd";
+  src: url('/font/Playfair_Display/static/PlayfairDisplay-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'inter' ;
+  src: url('/font/Inter/static/Inter_18pt-Regular.ttf');
+}
+
+.scrollbar-hide::-webkit-scrollbar{
+  display: none;
+}
