@@ -36,7 +36,7 @@ npm run dev
 
 ## 📸 Preview
 
-(Include screenshots or demo link here)
+https://elvion-watches.netlify.app/
 
 ## 🧠 Learning Goals
 
